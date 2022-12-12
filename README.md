@@ -1,0 +1,3 @@
+- fast directory contains theoretical source code
+- javascript directly contains canonical javascript implementation
+- output directly contains theoretical compiled output of the fast directory
